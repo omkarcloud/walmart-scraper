@@ -16,7 +16,7 @@ REST API to search products and get full product details from Walmart. Real-time
 {
     "item_id": "738550721",
     "catalog_id": "1CL56NQM50UB",
-    "name": "Raspberry Pi 400 Desktop Computer (U.S.)",
+    "name": "Raspberry Pi 400 Desktop Computer (US)",
     "avg_rating": 5,
     "review_count": 3,
     "in_stock": true,
@@ -65,7 +65,7 @@ curl -X GET "https://walmart-scraper.omkar.cloud/walmart/search?search_term=Rasp
     {
       "item_id": "738550721",
       "catalog_id": "1CL56NQM50UB",
-      "name": "Raspberry Pi 400 Desktop Computer (U.S.)",
+      "name": "Raspberry Pi 400 Desktop Computer (US)",
       "avg_rating": 5,
       "review_count": 3,
       "in_stock": true,
@@ -149,7 +149,7 @@ print(response.json())
     {
     "item_id": "738550721",
     "catalog_id": "1CL56NQM50UB",
-    "name": "Raspberry Pi 400 Desktop Computer (U.S.)",
+    "name": "Raspberry Pi 400 Desktop Computer (US)",
     "summary": "Featuring a quad-core 64-bit processorRaspberry Pi 400 incorporates a purpose-built board based onRaspberry Pi 400 has specially designed thermals to keep your computer cool and",
     "image": "https://i5.walmartimages.com/seo/Raspberry-Pi-400-Desktop-Computer-U-S_4575ecaa-3da0-42c7-bba5-3898a5abf288.b3b6ccbbbe693a92c2380fbeac83dae1.jpeg",
     "url": "https://www.walmart.com/ip/Raspberry-Pi-400-Desktop-Computer-U-S/738550721?classType=REGULAR",
