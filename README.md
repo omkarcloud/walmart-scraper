@@ -375,4 +375,4 @@ Reach out anytime. We will solve your query within 1 working day.
 
 [![Contact Us on WhatsApp about Walmart Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://www.omkar.cloud/l/walmart-scraper-github-whatsapp)
 
-[![Contact Us on Email about Walmart Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](https://www.omkar.cloud/l/walmart-scraper-github-email)
+[![Contact Us on Email about Walmart Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](mailto:happy.to.help@omkar.cloud?subject=Walmart%20Scraper%20API%20Question)
